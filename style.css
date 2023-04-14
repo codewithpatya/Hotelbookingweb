@@ -1,0 +1,107 @@
+.home{
+    background-image: url(./bedroom-462772_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.menu1 a{
+    margin-left: 40px;
+    text-decoration: none;
+    text-transform:uppercase;
+    font-weight: bolder;
+    color: white;
+}
+.menu2 a{
+    margin-right: 40px;
+    text-decoration: none;
+    text-transform:uppercase;
+    font-weight: bolder;
+    color: white;
+}
+.head{
+    font-family: 'Gloock', serif;
+    margin-top: 200px;
+    color: white;
+}
+.search input{
+    height: 40px;
+    width: 350px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    background-color: rgba(169, 169, 169, 0.174);
+    border: none;
+
+}
+.search select{
+    height: 40px;
+    width: 350px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    background-color: rgba(169, 169, 169, 0.174);
+    border: none;
+
+}
+.search button{
+    height: 40px;
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border: none;
+background-color: rgba(0, 0, 255, 0.315);
+}
+.search .container{
+    padding: 50px;
+}
+form{
+    height: 400px;
+    width: 400px;
+    border: solid 1px gray;
+    background-color: rgba(169, 169, 169, 0.174);
+}
+.about{
+    padding: 50px;
+    background-color: rgba(169, 169, 169, 0.174);
+}
+.about p{
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-top: 30px;
+    text-align: center;
+}
+.about h1{
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'PT Serif', serif;
+}
+.about img{
+    padding: 15px;
+}
+.about button{
+    background-color: rgba(169, 169, 169, 0.174);
+    height: 50px;
+    width: 200px;
+    border: 1px solid black;
+    margin-top: 20px ;
+}
+.rooms1{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+.rooms1 button{
+    border: 1px solid white;
+    border-radius: 30px;
+    height: 50px;
+    width: 200px;
+    background-color: rgb(4, 21, 21);
+    color: white;
+    
+}
+
+.rooms .container-fluid{
+    padding-bottom: 50px;
+}
+.rooms{
+    background-color: rgb(4, 21, 21);
+}
